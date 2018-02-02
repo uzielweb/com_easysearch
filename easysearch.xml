@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<extension type="component" version="2.5.0" method="update">
+
+	<name>Easy Search</name>
+
+	<author>Hiro Nozu</author>
+
+	<creationDate>November 2008</creationDate>
+
+	<copyright>2009 Hiro Nozu - All rights reserved.    <p>Adaptado para Joomla 2.5 por Uziel Almeida Oliveira- Ponto Mega
+    <br />Setembro de 2012</p></copyright>
+
+	<license>GNU/GPL</license>
+
+	<authorEmail>support@easysearch.forjoomla.net</authorEmail>
+
+	<authorUrl>http://easysearch.forjoomla.net/</authorUrl>
+
+	<version>0.1.1</version>
+
+	<description>Find what you wanna edit!</description>
+
+	<administration>
+
+		<menu link="option=com_easysearch">Easy Search</menu>
+    		<files folder="admin">
+
+			<filename>index.html</filename>
+
+			<filename>controller.php</filename>
+
+			<filename>admin.easysearch.php</filename>
+
+			<filename>admin.easysearch.html.php</filename>
+
+			<filename>toolbar.easysearch.php</filename>
+
+			<filename>toolbar.easysearch.html.php</filename>
+
+		</files>      
+
+	</administration>
+
+</extension>
+
